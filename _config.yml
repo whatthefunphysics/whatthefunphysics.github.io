@@ -35,7 +35,7 @@ plugins:
 # --- Author Profile (Appears on the sidebar) ---
 author:
   name    : "Goutham A."
-  avatar  : "/assets/images/Bio-Photo.JPG" # We will upload this later
+  avatar  : "/assets/images/Bio-Photo.jpg" # We will upload this later
   bio     : "Physics enthusiast, Author of 'Variable X', and Creator of WhatTheFunPhysics."
   links:
     - label: "YouTube"
