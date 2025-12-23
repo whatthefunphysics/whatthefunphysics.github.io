@@ -9,7 +9,7 @@ description: >-
   Home of the WhatTheFunPhysics YouTube channel and 'Variable X'.
 twitter_username:
 github_username: whatthefunphysics
-minimal_mistakes_skin: default # Options: default, dark, mint, sunrise
+minimal_mistakes_skin: dark # Options: default, dark, mint, sunrise
 search: true
 
 # --- Build Settings ---
